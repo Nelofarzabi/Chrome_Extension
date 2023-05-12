@@ -6,7 +6,7 @@
 > Description the project.
 - This extension is a simple extension Can :  
 - Save the tabs you write in the input .  
-- Save the current . 
+- Save the current tab. 
 - Show all saved tabs . 
 - Delete all saved tabs  . 
 
@@ -15,7 +15,7 @@
 
 **please get your browser update. To get a local copy up and running follow these simple steps.**
 
-Do the following tasks to add this extension to your Chrome : 
+Kindly do the following tasks to add this extension to your Chrome : 
 
 - git clone in your terminal
 - cd Chrome_Extension
