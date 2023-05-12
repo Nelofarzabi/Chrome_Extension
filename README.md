@@ -22,7 +22,7 @@ Do the following tasks to add this extension to your Chrome :
 - start index.html
 - Go to chrome://extensions/
 - Turn on Developer Mode (From right corner)
-- Click on Load unpacked (From left corner)
+- Click on Load unpacked button (From left corner)
 - Select the Chrome_Extension project (From your local PC) 
 
 
